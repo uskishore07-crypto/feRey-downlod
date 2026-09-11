@@ -1,0 +1,6 @@
+{
+  "name": "feRey",
+  "description": "feRey is a private personal-memory app to capture moments throughout your day and replay them chronologically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
